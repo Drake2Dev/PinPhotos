@@ -42,3 +42,13 @@ Follow these steps to build a dedicated folder using the built-in Android **File
 > **⚠️ Note:** Since this process *copies* your photos rather than moving them, you'll end up with duplicates—your originals stay put, and a second copy lives in the new folder. Keep in mind:
 > - If you delete or move the photos in your PinPhotos folder later, they won't show up in the app anymore.
 > - Duplicates take up extra storage space, so periodically clean out old PinPhotos folders you no longer need.
+
+---
+
+## How to Exit PinPhotos
+
+Since PinPhotos uses Android's native app pinning to lock your screen, exiting works the same way you'd unpin any app:
+
+**Swipe up and hold** from the bottom of the screen, then confirm with your PIN, pattern, or fingerprint.
+
+> **📌 Note:** This method is confirmed working on Android 16 and 17 (including the Pixel 11 Pro). However, exact steps can vary slightly depending on your device manufacturer or Android version. **The first time you pin any app**, Android will briefly show on-screen instructions for how to unpin it—pay attention to that message, as it's tailored to your specific device.
