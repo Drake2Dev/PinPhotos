@@ -80,6 +80,15 @@ This design keeps PinPhotos true to its privacy-first goal: it only sees what yo
 **Q: I picked a folder, but no photos are showing up.**
 A: Double-check that the folder you selected actually contains images (not just subfolders). PinPhotos only displays photos directly inside the chosen folder.
 
+**Q: My photos disappeared from PinPhotos after I organized my gallery.**
+A: If you deleted, moved, or renamed the original folder (or the photos inside it), PinPhotos won't be able to find them anymore. Simply re-select the folder using **Select Path** to refresh the connection.
+
+**Q: Can I change which folder PinPhotos uses later?**
+A: Yes! Open PinPhotos, tap **Select Path**, and choose a new folder at any time.
+
+**Q: Why can't I take a screenshot while using PinPhotos?**
+A: This is intentional. Screenshot blocking is a built-in privacy feature so the person holding your phone can't secretly capture and keep images from your gallery.
+
 **Q: The app won't pin / "Pin app" option is missing.**
 A: App pinning must be enabled on your device first:
 1. Go to **Settings > Security & Privacy**
@@ -90,11 +99,6 @@ A: App pinning must be enabled on your device first:
 **Q: I can't exit the app / nothing happens when I try to unpin.**
 A: See the [How to Exit PinPhotos](#how-to-exit-pinphotos) section above. If you're unsure whether your device uses gesture or button navigation, check **Settings > System > Gestures**.
 
-**Q: My photos disappeared from PinPhotos after I organized my gallery.**
-A: If you deleted, moved, or renamed the original folder (or the photos inside it), PinPhotos won't be able to find them anymore. Simply re-select the folder using **Select Path** to refresh the connection.
+**Q: I'm still stuck—where can I find more help with app pinning?**
+A: Check out [Google's official guide on app pinning](https://support.google.com/android/answer/9455138) for additional device-specific instructions.
 
-**Q: Can I change which folder PinPhotos uses later?**
-A: Yes! Open PinPhotos, tap **Select Path**, and choose a new folder at any time.
-
-**Q: Why can't I take a screenshot while using PinPhotos?**
-A: This is intentional. Screenshot blocking is a built-in privacy feature so the person holding your phone can't secretly capture and keep images from your gallery.
