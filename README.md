@@ -72,3 +72,28 @@ PinPhotos does **not** request broad storage or media permissions. Instead, it u
 - No manifest permissions are required, and no system popup asking to "access all photos" or "access all files" ever appears.
 
 This design keeps PinPhotos true to its privacy-first goal: it only sees what you explicitly show it.
+
+---
+
+## Troubleshooting / FAQ
+
+**Q: I picked a folder, but no photos are showing up.**
+A: Double-check that the folder you selected actually contains images (not just subfolders). PinPhotos only displays photos directly inside the chosen folder.
+
+**Q: The app won't pin / "Pin app" option is missing.**
+A: App pinning must be enabled on your device first:
+1. Go to **Settings > Security** (or **Security & Privacy**)
+2. Find **App Pinning** (sometimes under "More security settings")
+3. Toggle it **On**
+
+**Q: I can't exit the app / nothing happens when I try to unpin.**
+A: See the [How to Exit PinPhotos](#how-to-exit-pinphotos) section above. If you're unsure whether your device uses gesture or button navigation, check **Settings > System > Gestures**.
+
+**Q: My photos disappeared from PinPhotos after I organized my gallery.**
+A: If you deleted, moved, or renamed the original folder (or the photos inside it), PinPhotos won't be able to find them anymore. Simply re-select the folder using **Select Path** to refresh the connection.
+
+**Q: Can I change which folder PinPhotos uses later?**
+A: Yes! Open PinPhotos, tap **Select Path**, and choose a new folder at any time.
+
+**Q: Why can't I take a screenshot while using PinPhotos?**
+A: This is intentional. Screenshot blocking is a built-in privacy feature so the person holding your phone can't secretly capture and keep images from your gallery.
