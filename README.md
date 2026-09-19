@@ -49,7 +49,7 @@ Follow these steps to build a dedicated folder using the built-in Android **File
 
 Since PinPhotos uses Android's native app pinning to lock your screen, exiting works the same way you'd unpin any app.
 
-**If your phone uses Gesture Navigation** (most modern Android phones):
+**If your phone uses Gesture Navigation** (*most modern Android phones*):
 **Swipe up and hold** from the bottom of the screen, then confirm with your PIN, pattern, or fingerprint.
 
 > **📌 Note:** Exact steps to unpin can vary if your device uses **button navigation** (a Back/Home/Recent Apps button layout) instead of gestures. Not sure which you have? **The first time you pin any app**, Android will briefly show on-screen instructions for how to unpin it—pay attention to that message, as it's tailored to your specific device and navigation style.
