@@ -3,7 +3,7 @@ An Android app that securely locks your screen to a single photo folder.
 
 ---
 
-Full Description:
+## Full Description:
 
 Handing your unlocked phone to a stranger—or even a friend—can be incredibly nerve-wracking. PinPhotos eliminates that anxiety by locking your device to a single folder of photos, ensuring no one can snoop through your messages, apps, or other private data.
 
