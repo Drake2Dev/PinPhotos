@@ -55,3 +55,20 @@ Since PinPhotos uses Android's native app pinning to lock your screen, exiting w
 **Swipe up and hold** from the bottom of the screen, then confirm with your PIN, pattern, or fingerprint.
 
 > **📌 Note:** Exact steps to unpin can vary if your device uses **button navigation** (a Back/Home/Recent Apps button layout) instead of gestures. Not sure which you have? **The first time you pin any app**, Android will briefly show on-screen instructions for how to unpin it—pay attention to that message, as it's tailored to your specific device and navigation style.
+
+---
+
+## Requirements & Compatibility
+
+- **Minimum OS:** Android 9.0 (Pie) or higher
+- **Navigation:** Works with both gesture and button navigation (see [How to Exit PinPhotos](#how-to-exit-pinphotos) above for details)
+
+### Permissions Used
+
+PinPhotos does **not** request broad storage or media permissions. Instead, it uses Android's built-in folder picker (Storage Access Framework), which means:
+
+- You choose the exact folder you want PinPhotos to access.
+- Android grants read access to **only that specific folder**—nothing else on your device.
+- No manifest permissions are required, and no system popup asking to "access all photos" or "access all files" ever appears.
+
+This design keeps PinPhotos true to its privacy-first goal: it only sees what you explicitly show it.
