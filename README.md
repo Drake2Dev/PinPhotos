@@ -82,9 +82,10 @@ A: Double-check that the folder you selected actually contains images (not just 
 
 **Q: The app won't pin / "Pin app" option is missing.**
 A: App pinning must be enabled on your device first:
-1. Go to **Settings > Security** (or **Security & Privacy**)
-2. Find **App Pinning** (sometimes under "More security settings")
-3. Toggle it **On**
+1. Go to **Settings > Security & Privacy**
+2. Go to **More security & privacy**
+3. Find **App Pinning**
+4. Toggle it **On**
 
 **Q: I can't exit the app / nothing happens when I try to unpin.**
 A: See the [How to Exit PinPhotos](#how-to-exit-pinphotos) section above. If you're unsure whether your device uses gesture or button navigation, check **Settings > System > Gestures**.
