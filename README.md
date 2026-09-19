@@ -102,3 +102,26 @@ A: See the [How to Exit PinPhotos](#how-to-exit-pinphotos) section above. If you
 **Q: I'm still stuck—where can I find more help with app pinning?**
 A: Check out [Google's official guide on app pinning](https://support.google.com/android/answer/9455138) for additional device-specific instructions.
 
+---
+
+## Screenshots
+
+### Getting Started
+<p align="center">
+  <img src="screenshots/1.png" width="200" alt="Welcome & Agreement Screen">
+  <img src="screenshots/3.png" width="200" alt="Choosing a Photo Folder">
+  <img src="screenshots/4.png" width="200" alt="Granting Folder Access">
+</p>
+
+### Viewing Your Photos
+<p align="center">
+  <img src="screenshots/5.png" width="200" alt="Photo Gallery View">
+  <img src="screenshots/6.png" width="200" alt="Full-Screen Photo View">
+</p>
+
+### Locked & Secure
+<p align="center">
+  <img src="screenshots/7.png" width="200" alt="App Pinning Instructions">
+  <img src="screenshots/8.png" width="200" alt="Pinned Mode - No Exit Options">
+  <img src="screenshots/11.png" width="200" alt="Landscape Pinned View">
+</p>
