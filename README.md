@@ -20,3 +20,25 @@ Key Features:
 ৹ 100% Offline & Private: Zero internet permissions requested. Absolutely no data is collected, tracked, or shared.  
 
 ৹ Ad-Free & Account-Free: A completely clean, distraction-free experience with no sign-ups required.  
+
+---
+
+## How to Create a Photo Folder for PinPhotos
+
+Follow these steps to build a dedicated folder using the built-in Android **Files** app:
+
+1. Open the **Files** app on your Android device.
+2. Tap **Images** under the *Categories* section.
+3. Select the photos you want to include in your PinPhotos folder.
+4. Tap the **three-dot menu** (⋮) in the top-right corner.
+5. Choose **Copy to** from the dropdown menu.
+6. Navigate to your desired storage location (e.g., **Pictures**).
+7. Tap **New folder** at the bottom of the screen.
+8. Name your folder (e.g., "PinPhotos").
+9. Tap **Copy to folder** to finish.
+
+**You're all set!** Open PinPhotos, tap **Select Path**, and point it to your newly created folder.
+
+> **⚠️ Note:** Since this process *copies* your photos rather than moving them, you'll end up with duplicates—your originals stay put, and a second copy lives in the new folder. Keep in mind:
+> - If you delete or move the photos in your PinPhotos folder later, they won't show up in the app anymore.
+> - Duplicates take up extra storage space, so periodically clean out old PinPhotos folders you no longer need.
