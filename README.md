@@ -1,6 +1,8 @@
 # PinPhotos
 An Android app that securely locks your screen to a single photo folder.
 
+*Google Play Store link: Not yet released...*
+
 ---
 
 ## Full Description:
